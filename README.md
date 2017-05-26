@@ -92,10 +92,6 @@ public class JBT_AccessMethod {
  
 	
 Output of the above programme would be.
-
-1
-2
-3
  
 Inside Method with PUBIC Access Modifier
  
